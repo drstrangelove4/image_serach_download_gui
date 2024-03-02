@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MFHqBzzScwfgFqJyX4sCIsUrbQcy/5ywtYWWGkSoC/oHLucoSJanzMi9eZTvNLrmnal8Djx4wFAOj5UtT5rspQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Nextcloud\\Programming\\C#\\Basics\\GUI\\Image_Downloader\\Image_Downloader_GUI\\Image_Downloader_GUI\\Image_Downloader_GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fizzler\\1.2.0\\fizzler.1.2.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fizzler.systems.htmlagilitypack\\1.2.1\\fizzler.systems.htmlagilitypack.1.2.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\htmlagilitypack\\1.11.59\\htmlagilitypack.1.11.59.nupkg.sha512"
+  ],
+  "logs": []
+}

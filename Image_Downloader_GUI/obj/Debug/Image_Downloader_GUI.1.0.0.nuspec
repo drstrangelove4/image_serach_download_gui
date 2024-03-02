@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Image_Downloader_GUI</id>
+    <version>1.0.0</version>
+    <authors>Image_Downloader_GUI</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="Fizzler.Systems.HtmlAgilityPack" version="1.2.1" exclude="Build,Analyzers" />
+        <dependency id="HtmlAgilityPack" version="1.11.59" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\user\Nextcloud\Programming\C#\Basics\GUI\Image_Downloader\Image_Downloader_GUI\Image_Downloader_GUI\bin\Debug\net8.0-windows\Image_Downloader_GUI.runtimeconfig.json" target="lib\net8.0-windows7.0\Image_Downloader_GUI.runtimeconfig.json" />
+    <file src="C:\Users\user\Nextcloud\Programming\C#\Basics\GUI\Image_Downloader\Image_Downloader_GUI\Image_Downloader_GUI\bin\Debug\net8.0-windows\Image_Downloader_GUI.dll" target="lib\net8.0-windows7.0\Image_Downloader_GUI.dll" />
+  </files>
+</package>
